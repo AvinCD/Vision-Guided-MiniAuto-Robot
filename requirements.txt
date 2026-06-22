@@ -1,5 +1,0 @@
-flask
-bleak
-requests
-opencv-python
-numpy
